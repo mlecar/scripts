@@ -1,0 +1,1 @@
+1006993069;100699306903609A1001;simple-externalid-to-trace|41;0000;<?xml version="1.0" encoding="ISO-8859-1"?><erro xmlns="http://ecommerce.cbmp.com.br" id="6fcf758e-bc60-4d6a-acf4-496593a40441"><codigo>003</codigo><mensagem>Não foi encontrada transação para o Tid '100699306903609A1001'.</mensagem></erro>
